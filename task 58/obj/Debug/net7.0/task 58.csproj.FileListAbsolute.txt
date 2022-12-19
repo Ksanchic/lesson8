@@ -1,0 +1,15 @@
+/Users/krr/Desktop/oks/дуыыщт8/task 58/bin/Debug/net7.0/task 58
+/Users/krr/Desktop/oks/дуыыщт8/task 58/bin/Debug/net7.0/task 58.deps.json
+/Users/krr/Desktop/oks/дуыыщт8/task 58/bin/Debug/net7.0/task 58.runtimeconfig.json
+/Users/krr/Desktop/oks/дуыыщт8/task 58/bin/Debug/net7.0/task 58.dll
+/Users/krr/Desktop/oks/дуыыщт8/task 58/bin/Debug/net7.0/task 58.pdb
+/Users/krr/Desktop/oks/дуыыщт8/task 58/obj/Debug/net7.0/task 58.csproj.AssemblyReference.cache
+/Users/krr/Desktop/oks/дуыыщт8/task 58/obj/Debug/net7.0/task 58.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krr/Desktop/oks/дуыыщт8/task 58/obj/Debug/net7.0/task 58.AssemblyInfoInputs.cache
+/Users/krr/Desktop/oks/дуыыщт8/task 58/obj/Debug/net7.0/task 58.AssemblyInfo.cs
+/Users/krr/Desktop/oks/дуыыщт8/task 58/obj/Debug/net7.0/task 58.csproj.CoreCompileInputs.cache
+/Users/krr/Desktop/oks/дуыыщт8/task 58/obj/Debug/net7.0/task 58.dll
+/Users/krr/Desktop/oks/дуыыщт8/task 58/obj/Debug/net7.0/refint/task 58.dll
+/Users/krr/Desktop/oks/дуыыщт8/task 58/obj/Debug/net7.0/task 58.pdb
+/Users/krr/Desktop/oks/дуыыщт8/task 58/obj/Debug/net7.0/task 58.genruntimeconfig.cache
+/Users/krr/Desktop/oks/дуыыщт8/task 58/obj/Debug/net7.0/ref/task 58.dll
